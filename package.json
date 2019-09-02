@@ -1,0 +1,21 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "certificates issuer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BitDegree",
+  "license": "ISC",
+  "dependencies": {
+    "@govtechsg/open-certificate": "^1.1.40",
+    "bignumber.js": "^5.0.0",
+    "buffer": "^5.2.1",
+    "ethereumjs-tx": "^2.1.0",
+    "ganache-cli": "^6.5.1",
+    "mysql": "^2.17.1",
+    "openzeppelin-solidity": "^2.3.0",
+    "web3": "^1.2.0"
+  }
+}
