@@ -1,8 +1,7 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "certificates issuer",
-  "main": "index.js",
+  "description": "BitDegree Blockchain Certificates and Sholaraships Issuer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
